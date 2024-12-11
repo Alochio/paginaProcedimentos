@@ -1,0 +1,252 @@
+[
+    {
+        "codigo": "SE GASS 001",
+        "nome": "PROCEDIMENTO DE FAZER CAFÉ",
+        "descricao": "COMO FAZER CAFÉ"
+    },
+    {
+        "codigo": "SE GASS 002",
+        "nome": "PROCEDIMENTO DE COMO TROCAR UMA LÂMPADA",
+        "descricao": "COMO TROCAR UMA LÂMPADA"
+    },
+    {
+        "codigo": "SE GASS 003",
+        "nome": "PROCEDIMENTO DE LIMPEZA DE VENTILADOR",
+        "descricao": "COMO FAZER A LIMPEZA DO VENTILADOR"
+    },
+    {
+        "codigo": "SE GASS 004",
+        "nome": "PROCEDIMENTO DE TROCAR O FUSÍVEL DA TELEVISÃO",
+        "descricao": "COMO TROCAR O FUSÍVEL DA TELEVISÃO"
+    },
+    {
+        "codigo": "SE GASS 005",
+        "nome": "PROCEDIMENTO DE FAZER ARROZ",
+        "descricao": "COMO FAZER ARROZ"
+    },
+    {
+        "codigo": "SE GASS 006",
+        "nome": "PROCEDIMENTO DE TROCAR O PNEU DO CARRO",
+        "descricao": "COMO TROCAR O PNEU DO CARRO"
+    },
+    {
+        "codigo": "SE GASS 007",
+        "nome": "PROCEDIMENTO DE COLOCAR A LAVADORA DE ROUPA PARA FUNCIONAR",
+        "descricao": "COMO LIGAR E USAR A LAVADORA DE ROUPA"
+    },
+    {
+        "codigo": "SE GASS 008",
+        "nome": "PROCEDIMENTO DE TROCAR A BATERIA DO CELULAR",
+        "descricao": "COMO TROCAR A BATERIA DO CELULAR"
+    },
+    {
+        "codigo": "SE GASS 009",
+        "nome": "PROCEDIMENTO DE CONFIGURAR O ROTEADOR",
+        "descricao": "COMO CONFIGURAR UM ROTEADOR DE INTERNET"
+    },
+    {
+        "codigo": "SE GASS 010",
+        "nome": "PROCEDIMENTO DE FAZER SUCO DE LARANJA",
+        "descricao": "COMO FAZER SUCO DE LARANJA"
+    },
+    {
+        "codigo": "SE GASS 011",
+        "nome": "PROCEDIMENTO DE TROCAR O FIO DE CABELLO",
+        "descricao": "COMO TROCAR O FIO DE CABELLO"
+    },
+    {
+        "codigo": "SE GASS 012",
+        "nome": "PROCEDIMENTO DE FAZER PÃO CASEIRO",
+        "descricao": "COMO FAZER PÃO CASEIRO"
+    },
+    {
+        "codigo": "SE GASS 013",
+        "nome": "PROCEDIMENTO DE TROCAR O CARTUCHO DE IMPRESSORA",
+        "descricao": "COMO TROCAR O CARTUCHO DE IMPRESSORA"
+    },
+    {
+        "codigo": "SE GASS 014",
+        "nome": "PROCEDIMENTO DE LIMPEZA DE MICROONDAS",
+        "descricao": "COMO LIMPAR UM MICROONDAS"
+    },
+    {
+        "codigo": "SE GASS 015",
+        "nome": "PROCEDIMENTO DE TROCAR A GÁS DO AQUECEDOR",
+        "descricao": "COMO TROCAR O GÁS DO AQUECEDOR"
+    },
+    {
+        "codigo": "SE GASS 016",
+        "nome": "PROCEDIMENTO DE COMO TROCAR O FILTRO DO AR-CONDICIONADO",
+        "descricao": "COMO TROCAR O FILTRO DO AR-CONDICIONADO"
+    },
+    {
+        "codigo": "SE GASS 017",
+        "nome": "PROCEDIMENTO DE LIMPEZA DE GELADEIRA",
+        "descricao": "COMO LIMPAR UMA GELADEIRA"
+    },
+    {
+        "codigo": "SE GASS 018",
+        "nome": "PROCEDIMENTO DE LIMPEZA DE PISCINA",
+        "descricao": "COMO LIMPAR UMA PISCINA"
+    },
+    {
+        "codigo": "SE GASS 019",
+        "nome": "PROCEDIMENTO DE TROCAR O ÓLEO DO CARRO",
+        "descricao": "COMO TROCAR O ÓLEO DO CARRO"
+    },
+    {
+        "codigo": "SE GASS 020",
+        "nome": "PROCEDIMENTO DE TROCAR O FILTRO DE ÁGUA",
+        "descricao": "COMO TROCAR O FILTRO DE ÁGUA"
+    },
+    {
+        "codigo": "SE GASS 021",
+        "nome": "PROCEDIMENTO DE LIMPEZA DE FOGÃO",
+        "descricao": "COMO LIMPAR UM FOGÃO"
+    },
+    {
+        "codigo": "SE GASS 022",
+        "nome": "PROCEDIMENTO DE TROCAR O TECIDO DO SOFÁ",
+        "descricao": "COMO TROCAR O TECIDO DO SOFÁ"
+    },
+    {
+        "codigo": "SE GASS 023",
+        "nome": "PROCEDIMENTO DE FAZER SABÃO CASEIRO",
+        "descricao": "COMO FAZER SABÃO CASEIRO"
+    },
+    {
+        "codigo": "SE GASS 024",
+        "nome": "PROCEDIMENTO DE TROCAR O OLEO DO MICRO-ONDAS",
+        "descricao": "COMO TROCAR O ÓLEO DO MICRO-ONDAS"
+    },
+    {
+        "codigo": "SE GASS 025",
+        "nome": "PROCEDIMENTO DE TROCAR O FILTRO DE ÓLEO",
+        "descricao": "COMO TROCAR O FILTRO DE ÓLEO"
+    },
+    {
+        "codigo": "SE GASS 026",
+        "nome": "PROCEDIMENTO DE LIMPEZA DO TELEVISOR",
+        "descricao": "COMO LIMPAR O TELEVISOR"
+    },
+    {
+        "codigo": "SE GASS 027",
+        "nome": "PROCEDIMENTO DE TROCAR A PELÍCULA DO CELULAR",
+        "descricao": "COMO TROCAR A PELÍCULA DO CELULAR"
+    },
+    {
+        "codigo": "SE GASS 028",
+        "nome": "PROCEDIMENTO DE FAZER COOKIES",
+        "descricao": "COMO FAZER COOKIES"
+    },
+    {
+        "codigo": "SE GASS 029",
+        "nome": "PROCEDIMENTO DE LIMPEZA DO COMPUTADOR",
+        "descricao": "COMO LIMPAR O COMPUTADOR"
+    },
+    {
+        "codigo": "SE GASS 030",
+        "nome": "PROCEDIMENTO DE TROCAR A PASTA TÉRMICA DO PROCESSADOR",
+        "descricao": "COMO TROCAR A PASTA TÉRMICA DO PROCESSADOR"
+    },
+    {
+        "codigo": "SE GASS 031",
+        "nome": "PROCEDIMENTO DE LIMPEZA DO LIXO DOMÉSTICO",
+        "descricao": "COMO LIMPAR O LIXO DOMÉSTICO"
+    },
+    {
+        "codigo": "SE GASS 032",
+        "nome": "PROCEDIMENTO DE TROCAR A LÂMPADA DO QUARTO",
+        "descricao": "COMO TROCAR A LÂMPADA DO QUARTO"
+    },
+    {
+        "codigo": "SE GASS 033",
+        "nome": "PROCEDIMENTO DE LIMPEZA DE JANELAS",
+        "descricao": "COMO LIMPAR AS JANELAS"
+    },
+    {
+        "codigo": "SE GASS 034",
+        "nome": "PROCEDIMENTO DE TROCAR O TECIDO DA CAMA",
+        "descricao": "COMO TROCAR O TECIDO DA CAMA"
+    },
+    {
+        "codigo": "SE GASS 035",
+        "nome": "PROCEDIMENTO DE FAZER ACOUGUE",
+        "descricao": "COMO FAZER ACOUGUE"
+    },
+    {
+        "codigo": "SE GASS 036",
+        "nome": "PROCEDIMENTO DE LIMPEZA DA MÁQUINA DE LAVAR",
+        "descricao": "COMO LIMPAR A MÁQUINA DE LAVAR"
+    },
+    {
+        "codigo": "SE GASS 037",
+        "nome": "PROCEDIMENTO DE TROCAR A GÁS DO BICO DE GÁS",
+        "descricao": "COMO TROCAR O GÁS DO BICO DE GÁS"
+    },
+    {
+        "codigo": "SE GASS 038",
+        "nome": "PROCEDIMENTO DE LIMPEZA DO VENTILADOR DE TETO",
+        "descricao": "COMO LIMPAR O VENTILADOR DE TETO"
+    },
+    {
+        "codigo": "SE GASS 039",
+        "nome": "PROCEDIMENTO DE TROCAR A CORRENTE DO RELÓGIO",
+        "descricao": "COMO TROCAR A CORRENTE DO RELÓGIO"
+    },
+    {
+        "codigo": "SE GASS 040",
+        "nome": "PROCEDIMENTO DE LIMPEZA DO AR CONDICIONADO",
+        "descricao": "COMO LIMPAR O AR CONDICIONADO"
+    },
+    {
+        "codigo": "SE GASS 041",
+        "nome": "PROCEDIMENTO DE TROCAR O AR CONDICIONADO",
+        "descricao": "COMO TROCAR O AR CONDICIONADO"
+    },
+    {
+        "codigo": "SE GASS 042",
+        "nome": "PROCEDIMENTO DE FAZER FEIJÃO",
+        "descricao": "COMO FAZER FEIJÃO"
+    },
+    {
+        "codigo": "SE GASS 043",
+        "nome": "PROCEDIMENTO DE TROCAR O FILTRO DE CAFÉ",
+        "descricao": "COMO TROCAR O FILTRO DE CAFÉ"
+    },
+    {
+        "codigo": "SE GASS 044",
+        "nome": "PROCEDIMENTO DE FAZER CEREAL",
+        "descricao": "COMO FAZER CEREAL"
+    },
+    {
+        "codigo": "SE GASS 045",
+        "nome": "PROCEDIMENTO DE TROCAR O FIO DO AQUECEDOR",
+        "descricao": "COMO TROCAR O FIO DO AQUECEDOR"
+    },
+    {
+        "codigo": "SE GASS 046",
+        "nome": "PROCEDIMENTO DE TROCAR A MANGUEIRA DO LAVADORA",
+        "descricao": "COMO TROCAR A MANGUEIRA DA LAVADORA"
+    },
+    {
+        "codigo": "SE GASS 047",
+        "nome": "PROCEDIMENTO DE LIMPEZA DO COMPUTADOR",
+        "descricao": "COMO LIMPAR O COMPUTADOR"
+    },
+    {
+        "codigo": "SE GASS 048",
+        "nome": "PROCEDIMENTO DE LIMPEZA DO VENTILADOR DE PAREDE",
+        "descricao": "COMO LIMPAR O VENTILADOR DE PAREDE"
+    },
+    {
+        "codigo": "SE GASS 049",
+        "nome": "PROCEDIMENTO DE LIMPEZA DE COMPUTADOR",
+        "descricao": "COMO LIMPAR O COMPUTADOR"
+    },
+    {
+        "codigo": "SE GASS 050",
+        "nome": "PROCEDIMENTO DE TROCAR O ÓLEO DO FOGÃO",
+        "descricao": "COMO TROCAR O ÓLEO DO FOGÃO"
+    }
+]
